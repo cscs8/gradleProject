@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rootHoge.iml" filepath="$PROJECT_DIR$/.idea/modules/rootHoge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rootHoge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rootHoge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1370441779/rootHoge.sub.iml" filepath="$PROJECT_DIR$/.idea/modules/-1370441779/rootHoge.sub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1370441779/rootHoge.sub.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1370441779/rootHoge.sub.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1370441779/rootHoge.sub.test.iml" filepath="$PROJECT_DIR$/.idea/modules/-1370441779/rootHoge.sub.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rootHoge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/rootHoge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/untitled.iml" filepath="$PROJECT_DIR$/.idea/untitled.iml" />
+    </modules>
+  </component>
+</project>

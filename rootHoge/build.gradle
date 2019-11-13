@@ -1,0 +1,28 @@
+plugins {
+    id 'java'
+    id 'idea'
+}
+
+version '1.0-SNAPSHOT'
+
+//sourceCompatibility = 1.10
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+
+
+//import groovy.json.JsonSlurper
+
+wrapper {
+    gradleVersion = '6.0'
+//    doFirst {
+//        def versionService = new URL('https://services.gradle.org/versions/current')
+//        gradleVersion = new JsonSlurper().parseText(versionService.text).version
+//        print("gradleVersion: " + gradleVersion)
+//    }
+}
